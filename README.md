@@ -1,7 +1,7 @@
 <h1> Infinite voice fly 
  </h1>
 
- <img src="https://lh3.googleusercontent.com/VyZ8ISIKhg0wztNiB3nHncz_JTQPiOkJnCnk2tWwqEDKgZKF1gRBTtcjVcMXknnve4RR=w720-h310-rw" width="280" height="380"/>
+ <img src="https://cdn-images-1.medium.com/max/800/1*bqCM4atIfOHFkmT28T2Ipg.png" width="280" height="380"/>
 
 <h3> Simple mobile voice controlled app game </h3>
 
